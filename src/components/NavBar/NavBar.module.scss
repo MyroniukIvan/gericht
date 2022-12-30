@@ -28,6 +28,12 @@
 .registration {
   padding-right: 120px;
 
+  object {
+    position: absolute;
+    right: 15%;
+    top: 3%;
+  }
+
   a:last-child {
     padding-left: 50px;
   }
