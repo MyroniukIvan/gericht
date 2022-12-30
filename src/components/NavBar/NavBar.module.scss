@@ -1,0 +1,39 @@
+.title {
+  color: white;
+  padding-left: 120px;
+  font-family: 'Cormorant Upright', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+  text-align: center;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.flex {
+  padding-bottom: 95px;
+  padding-top: 24px;
+  background: #040404;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  gap: 32px;
+  display: flex;
+}
+
+.registration {
+  padding-right: 120px;
+
+  a:last-child {
+    padding-left: 50px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
