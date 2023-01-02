@@ -8,6 +8,23 @@
   background-position: 100% 100%;
   background-size: 100%;
   height: 700px;
+  h1{
+    font-family: 'Cormorant Upright';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 130%;
+    /* or 83px */
+
+    text-align: right;
+    letter-spacing: 0.03em;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+
+    /* DCCA87 */
+
+    color: #DCCA87;
+  }
 
   .g {
     width: 391px;
@@ -16,7 +33,7 @@
 
   .knife {
     position: absolute;
-    left: 47%;
+    left: 50%;
     height: 650px;
   }
 }
@@ -119,3 +136,4 @@
   padding-top: 32px;
   rotate: 180deg;
 }
+

@@ -1,0 +1,15 @@
+.video {
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+.vid {
+  width: 100%;
+}
+  .play {
+    position: absolute;
+    color: white;
+    width: 50px;
+    height: 50px;
+  }
+}

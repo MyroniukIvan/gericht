@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './AboutUs.module.scss'
 import vector from "../../assets/Vector.svg";
-import g from "../../assets/G.svg";
-import knife from "../../assets/savernake-knives-f4jl2ezowuM-unsplash 2.svg";
+import knife from '../../assets/knife.svg'
+import g from '../../assets/G.svg'
 
 const AboutUs = () => {
     return (<div className={styles.box}>
